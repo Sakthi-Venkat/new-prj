@@ -25,6 +25,18 @@ export default function Testimonials() {
           <img src="/profile3.png" className="w-8 h-8 rounded-full" alt="Louis" />
           <span>"I finally trade with confidence." - Louis</span>
         </div>
+        <div className="absolute bottom-10 right-50 bg-red-600 text-white px-4 py-2 rounded-lg flex items-center space-x-2">
+          <img src="/profile3.png" className="w-8 h-8 rounded-full" alt="Louis" />
+          <span>"I finally trade with confidence." - Louis</span>
+        </div>
+        <div className="absolute bottom-40 right-30 bg-red-600 text-white px-4 py-2 rounded-lg flex items-center space-x-2">
+          <img src="/profile3.png" className="w-8 h-8 rounded-full" alt="Louis" />
+          <span>"I finally trade with confidence." - Louis</span>
+        </div>
+        <div className="absolute bottom-40 left-127">
+          <img src="../assets/image1.jpg" className="w-8 h-8 rounded-full" alt="Louis" />
+          
+        </div>
       </div>
     </section>
   );
