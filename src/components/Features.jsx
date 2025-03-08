@@ -7,8 +7,8 @@ function Features() {
   return (
     <div className="bg-black text-white min-h-screen flex flex-col items-center justify-center">
      
-      <div className="text-center py-16 w-full shadow-lg">
-        <img src={image} className="mx-auto w-full md:w-full rounded-lg" />
+      <div className="text-center py-16 w-full shadow-lg ">
+        <img src={image} className="mx-auto w-full md:w-full rounded-lg shadow-[0px_10px_30px_rgba(255,0,0,0.6)]" />
       </div>
 
        
